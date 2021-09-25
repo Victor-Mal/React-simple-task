@@ -1,8 +1,9 @@
 .Avatar{
     border-radius: 50%;
-    height: 90px;
-    width: 90px;
+    height: 80px;
+    width: 80px;
     border: 2px black inset;
     object-fit: cover;
+    margin: 10px 20px;
 }
 
